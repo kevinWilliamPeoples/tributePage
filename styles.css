@@ -1,0 +1,52 @@
+h1{
+    font-size: 100px;
+    text-align: center;
+    
+    text-decoration: underline;
+    color:darkgoldenrod
+}
+
+h2{
+    text-align: center;
+    font-size: 75px;
+    text-decoration: underline;
+    color:darkgoldenrod
+}
+
+body{background-color: rgb(7, 7, 7);
+
+    /* border: dotted; */
+}
+
+.p2{
+    text-align: center;
+    font-size: 50px;
+    color:darkgoldenrod;
+    
+  
+}
+
+.item{
+    position: relative;
+    position: absolute;
+    
+    font-style: oblique;
+    background-image: url("https://cdn.wallpapersafari.com/35/14/AzEsFa.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+  
+  
+    
+}
+
+.item2{
+    border-style: solid;
+    color: darkgoldenrod;
+    text-shadow: 2px 2px 5px black;
+    
+}
+.padding{
+    padding-left: 600px;
+}
+
